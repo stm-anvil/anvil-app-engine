@@ -8,3 +8,5 @@ App Engine works!)
 The script communicates back to Anvil using
 the Uplink, both by adding rows to Data Tables and by calling a
 Server Module function.
+
+See [this Forum post](https://anvil.works/forum/t/connecting-via-uplink-to-google-app-engine-initially-for-data-loading-using-singer-io/3423) for motivation.
